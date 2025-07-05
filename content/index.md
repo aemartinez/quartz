@@ -1,6 +1,5 @@
 ---
-title: Welcome to Quartz
+title: A place for drafting ideas
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+This is my excuse for writing down ideas and connections that I find interesting. Everything here is an evolving draft.

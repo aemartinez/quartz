@@ -6,11 +6,11 @@ export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
   header: [],
   afterBody: [],
-  footer: Component.Footer({
+  footer: Component.CustomFooter({
     links: {
-      GitHub: "https://github.com/jackyzha0/quartz",
-      "Discord Community": "https://discord.gg/cRFFHYye7t",
+      // "Homepage": "https://agusmartinez.ar",
     },
+    mainText: "By <a href='https://agusmartinez.ar'>Agustín Martinez Suné</a> © 2025. Built with <a href='https://quartz.jzhao.xyz/'>Quartz</a>.",
   }),
 }
 

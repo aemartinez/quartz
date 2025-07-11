@@ -1,5 +1,5 @@
 ---
-title: What is maintained when science moves forward?
+title: What Survives When Paradigms Shift?
 tags:
   - unfinished-draft
 ---
